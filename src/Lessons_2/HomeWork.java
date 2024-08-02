@@ -23,7 +23,6 @@ public class HomeWork {
         System.out.println("Задача 2/3: \n заданое число: " + number);
         while (number != 0) {
             sum += number % 10;
-            ;
             number /= 10;
         }
         System.out.println(" сумма цифр: " + sum);
