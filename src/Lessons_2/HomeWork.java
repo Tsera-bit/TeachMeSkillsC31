@@ -52,3 +52,7 @@ public class HomeWork {
         System.out.println(" результаты ракировки one = " + one + " two = " + two);
     }
 }
+
+// git add . (DOC)
+// git commit -am (All Message) "comment"
+// git push (GitHub)
