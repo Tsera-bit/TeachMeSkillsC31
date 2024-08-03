@@ -2,12 +2,12 @@ package Lessons_2;
 
 public class HomeWork {
     public static void main(String[] args) {
-        task1(32,45);
-        task2and3(12);
-        task2and3(444);
-        task4(36.7);
-        task5(55,13);
-        taskStar(123,43);
+        HomeWork.task1(32,45);
+        HomeWork.task2and3(12);
+        HomeWork.task2and3(444);
+        HomeWork.task4(36.7);
+        HomeWork.task5(55,13);
+        HomeWork.taskStar(123,43);
     }
     static void task1(int b, int c) {
         // Задание 1 задаём значение b и c
